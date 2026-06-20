@@ -37,7 +37,7 @@ python code/demo_live.py
 
 ## 📄 Rapport
 
-Le rapport complet (théorie, démonstrations, résultats et discussion) est disponible dans [`rapport_mc.pdf`](rapport_mc.pdf).
+Le rapport complet (théorie, démonstrations, résultats et discussion) est disponible dans [`Rapport_Monte_Carlo_Control_RL.pdf`](Rapport_Monte_Carlo_Control_RL.pdf).
 
 ## 🛠️ Technologies
 
